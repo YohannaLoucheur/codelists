@@ -1,0 +1,130 @@
+<codelists>
+  <codelist>
+    <name>EarmarkingCategory</name>
+    <description>This codelist has been created by IATI and is derived from the Grand Bargain Earmarking Modality codelist.</description>
+    <count>4</count>
+  </codelist>
+  <codelist>
+    <name>AidType-category</name>
+    <description>This codelists exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.</description>
+    <count>8</count>
+  </codelist>
+  <codelist>
+    <name>CollaborationType</name>
+    <description>OECD DAC classification used to determine the character of resource flows (bilateral or multilateral).</description>
+    <count>7</count>
+  </codelist>
+  <codelist>
+    <name>OrganisationRegistrationAgency</name>
+    <description>
+                The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a register of known identifier lists, including national company registers, NGO directories and international and multilateral organisation lists - along with guidance and online resources to help locate the identifiers assigned to a specific organisation.
+
+                As of 17 July 2017 this list is maintained by the org-id.guide project. Data publishers can now search for and locate the relevant list for a particular organisation identifier using the `org-id.guide website &lt;http://org-id.guide/&gt;`__. The full register of identifier sources is also available to download in `XML &lt;http://org-id.guide/download.xml&gt;`__, `JSON &lt;http://org-id.guide/download.json&gt;`__ and `CSV &lt;http://org-id.guide/download.csv&gt;`__ formats.
+
+                IATI periodically replicates the codelist of identifier sources from org-id.guide, to assist those accessing IATI documentation. However, it is advised that the most up-to-date source is the `org-id.guide project &lt;http://org-id.guide/&gt;`__.
+
+                If org-id.guide does not contain an entry for the kind of organisation you need to identify, you can make a request a new list is included in the register following the `guidance &lt;http://docs.org-id.guide/en/latest/contribute/&gt;`__ or by getting in touch with org-id.guide at: contact@org-id.guide.
+            </description>
+    <count>197</count>
+  </codelist>
+  <codelist>
+    <name>Language</name>
+    <description></description>
+    <count>181</count>
+  </codelist>
+  <codelist>
+    <name>FinanceType</name>
+    <description>DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.</description>
+    <count>68</count>
+  </codelist>
+  <codelist>
+    <name>CRSChannelCode</name>
+    <description></description>
+    <count>359</count>
+  </codelist>
+  <codelist>
+    <name>SectorCategory</name>
+    <description></description>
+    <count>42</count>
+  </codelist>
+  <codelist>
+    <name>PolicyMarker</name>
+    <description>The Policy Marker codelist is derived from the policy markers declared by the WP-STAT. The codes themselves are created by IATI.</description>
+    <count>12</count>
+  </codelist>
+  <codelist>
+    <name>FinanceType-category</name>
+    <description>This codelists exists to group the Finance Type codelist into categories. It is not used as a codelist in its own right.</description>
+    <count>13</count>
+  </codelist>
+  <codelist>
+    <name>LocationType</name>
+    <description>
+            US NGA Feature Designation Codes
+            
+            On this codelist 'category' is used for the Feature Class.
+        </description>
+    <count>682</count>
+  </codelist>
+  <codelist>
+    <name>LocationType-category</name>
+    <description>This category is equivalent to US NGA's "Feature Class"</description>
+    <count>9</count>
+  </codelist>
+  <codelist>
+    <name>PolicySignificance</name>
+    <description></description>
+    <count>5</count>
+  </codelist>
+  <codelist>
+    <name>UNSDG-Targets</name>
+    <description>A value from the second-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1.1&#8217;)</description>
+    <count>169</count>
+  </codelist>
+  <codelist>
+    <name>Sector</name>
+    <description></description>
+    <count>285</count>
+  </codelist>
+  <codelist>
+    <name>FlowType</name>
+    <description>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</description>
+    <count>10</count>
+  </codelist>
+  <codelist>
+    <name>AidType</name>
+    <description></description>
+    <count>18</count>
+  </codelist>
+  <codelist>
+    <name>FileFormat</name>
+    <description>File format of published documents.</description>
+    <count>1652</count>
+  </codelist>
+  <codelist>
+    <name>Currency</name>
+    <description>ISO 4217 Currency used for all transactions and budgets</description>
+    <count>174</count>
+  </codelist>
+  <codelist>
+    <name>UNSDG-Goals</name>
+    <description>A value from the top-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1&#8217;)</description>
+    <count>17</count>
+  </codelist>
+  <codelist>
+    <name>Region</name>
+    <description></description>
+    <count>17</count>
+  </codelist>
+  <codelist>
+    <name>Country</name>
+    <description>
+            The Country codelist is generated from the ISO 3166-1 part of the
+            ISO 3166 standard. The standard makes allowance, alongside the
+            officially assigned codes, for code elements to be expanded by
+            using either reserved codes or user-assigned codes. IATI currently
+            defines additional codes in the XA -XZ range.
+        </description>
+    <count>251</count>
+  </codelist>
+</codelists>
