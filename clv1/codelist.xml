@@ -45,7 +45,7 @@
   <codelist>
     <name>SectorCategory</name>
     <description></description>
-    <count>42</count>
+    <count>44</count>
   </codelist>
   <codelist>
     <name>PolicyMarker</name>
@@ -84,7 +84,7 @@
   <codelist>
     <name>Sector</name>
     <description></description>
-    <count>285</count>
+    <count>311</count>
   </codelist>
   <codelist>
     <name>FlowType</name>

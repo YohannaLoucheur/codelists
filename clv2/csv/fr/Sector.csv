@@ -58,6 +58,7 @@ code,name,description,category,url,status
 15117,Planification budgétaire,Fonctionnement des services de préparation du budget.,151,,active
 15118,Contrôle interne national,Administration et fonctionnement des services de vérification.,151,,active
 15119,Gestion de l'aide et de la dette publique,"Gestion de la dette publique et de l'aide étrangère reçue (par le pays partenaire). Pour rapporter des ré-échelonnements de dette, utiliser les codes 600xx.",151,,active
+15120,,,151,,withdrawn
 15121,Affaires étrangères,Administration des affaires étrangères et services associés.,151,,active
 15122,Missions diplomatiques,Fonctionnement des missions diplomatiques ou consulaires à l'étranger ou auprès d'organisations internationales.,151,,active
 15123,Gestion de l'aide étrangère des pays en développement,Soutien à la gestion de l'aide étrangère offerte par les pays en développement (y compris la cooperation triangulaire et sud-sud).,151,,active
@@ -75,6 +76,7 @@ code,name,description,category,url,status
 15135,Ombudsman,Officier indépendant représentant les intérêts du public en faisant enquête et en remédiant aux plaintes de traitement inéquitable ou de mauvaise gestion.,151,,active
 15136,Immigration,"Administration des affaires et services d'immigration, y compris l'enregistrement des étrangers et la délivrance de documents de travail et de voyage aux immigrants.",151,,active
 15137,Prisons,,151,,active
+15140,,,151,,withdrawn
 15142,Politique macroéconomique,"Soutien à la stabilité macroéconomique, à la viabilité de la dette et aux réformes structurelles. Comprend une assistance technique pour la formulation stratégique de politiques, lois et réglementations; renforcement des capacités pour améliorer le développement du secteur public; financement basé sur les politiques. Pour la politique fiscale et la mobilisation des recettes intérieures, utilisez les codes 15111 et 15114.",151,,active
 15143,Services météorologiques,Administration ou fonctionnement des institutions s'occupant de météorologie.,151,,active
 15144,Élaboration des normes nationales,Administration ou fonctionnement des institutions s'occupant des normes nationales. (Utiliser le code 16062 pour le renforcement des capacités statistiques),151,,active
@@ -86,6 +88,10 @@ code,name,description,category,url,status
 15155,Politique et administration fiscales,,151,,active
 15156,Mobilisation des ressources intérieures autre que les recettes non-fiscales,"Recettes non-fiscales incluant les ministères de tutelle, les autorités fiscales ou autres institutions publiques locales, régionales ou nationales.",151,,active
 15160,Droits de la personne,"Mesures visant à aider les institutions et mécanismes spécialisés dans les droits de la personne opérant aux niveaux mondial, régional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, économiques, sociaux et culturels tels que définis dans les conventions et pactes internationaux; transposition dans la législation nationale des engagements internationaux concernant les droits de la personne; notification et suivi; dialogue sur les droits de la personne. Défenseurs des droits de la personne et ONG oeuvrant dans ce domaine ; promotion des droits de la personne, défense active, mobilisation ; sensibilisation et éducation des citoyens aux droits de la personne. Élaboration de programmes concernant les droits de la personne ciblés sur des groupes particuliers comme les enfants, les individus en situation de handicap, les migrants, les minorités ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination fondée sur la caste, les victimes de la traite d'êtres humains, les victimes de la torture. (Utiliser le code 15230 lorsque les activités se déroulent dans le cadre d’une opération internationale de maintien de la paix et le code 15180 pour les activités visant l’élimination de la violence à l’égard des femmes et des filles. Utiliser le code 15190 pour la programmation des droits de l'homme des réfugiés ou des migrants, y compris lorsqu'ils sont victimes de la traite d'êtres humains. Utiliser le code 16070 pour les activités concernant les Principes fondamentaux et Droits au travail, c'est-à-dire travail des enfants, travail forcé, non-discrimination dans l'emploi et le travail, liberté syndicale et négociation collective.)",151,,active
+15161,,,151,,withdrawn
+15162,,,151,,withdrawn
+15163,,,151,,withdrawn
+15164,,,151,,withdrawn
 15170,Organisations et institutions pour l’égalité des femmes,Soutien aux institutions et organisations (gouvernementales et non gouvernementales) qui œuvrent pour l’égalité homme-femme et l’autonomisation des femmes.,151,,active
 15180,Élimination de la violence à l’égard des femmes et des filles,"Soutien à des programmes visant à prévenir et éliminer toutes les formes de violence à l’égard des femmes et des filles/violence basée sur le genre. Cette définition recouvre des formes diverses de violence physique, sexuelle et psychologique et s'entend comme englobant, sans y être limitée : la violence infligée par un partenaire intime (violence domestique) ; la violence sexuelle ; les mutilations génitales féminines/excision (MGF/E); les mariages d’enfants, précoces et forcés ; les attaques à l’acide ; les crimes d’honneur ; et la traite des femmes et des filles. Les activités de prévention peuvent notamment inclure les efforts visant soutenir l’autonomisation des femmes et des filles ; le changement des attitudes, normes et comportements ; l’adoption et la mise en oeuvre de réformes légales ; et le renforcement de l’application des lois et des politiques visant à mettre fin à la violence à l’égard des femmes et des filles, y compris à travers le renforcement des capacités institutionnelles. Les interventions visant à répondre à la violence à l’égard des femmes et des filles/violence basée sur le genre peuvent notamment inclure l’élargissement de l’accès aux services y compris à l’assistance juridique, l’accompagnement psychologique et les soins médicaux ; la formation du personnel en vue de répondre plus efficacement aux besoins des survivantes ; et les actions visant à garantir l’ouverture d’enquêtes, la poursuite en justice et la condamnation des auteurs de violence.",151,,active
 15185,Administration publique locale,"Processus de décentralisation (y compris aspects politiques, administratifs et budgétaires) ; relations intergouvernementales et fédéralisme ; renforcement des autorités locales.",151,,active
@@ -135,6 +141,23 @@ code,name,description,category,url,status
 22020,Télécommunications,"Réseaux de téléphones, satellites, stations terrestres.",220,,active
 22030,"Radio, télévision, presse écrite",Liaisons et équipement ; journaux ; imprimerie et édition.,220,,active
 22040,Technologies de l'information et de la communication (TIC),Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.,220,,active
+23010,,,230,,withdrawn
+23020,,,230,,withdrawn
+23030,,,230,,withdrawn
+23040,,,230,,withdrawn
+23050,,,230,,withdrawn
+23061,,,230,,withdrawn
+23062,,,230,,withdrawn
+23063,,,230,,withdrawn
+23064,,,230,,withdrawn
+23065,,,230,,withdrawn
+23066,,,230,,withdrawn
+23067,,,230,,withdrawn
+23068,,,230,,withdrawn
+23069,,,230,,withdrawn
+23070,,,230,,withdrawn
+23081,,,230,,withdrawn
+23082,,,230,,withdrawn
 23110,Politique énergétique et gestion administrative,Politique et planification du secteur de l’énergie ; aide aux ministères de l’énergie ; conseils et renforcement des capacités institutionnelles ; activités non précisées.,231,,active
 23111,"Politiques, planification et administration du secteur de l'énergie",,231,,active
 23112,Réglementation de l'énergie,"Réglementation du secteur de l'énergie, y compris l'approvisionnement d'électricité en gros et au détail.",231,,active
@@ -273,6 +296,9 @@ code,name,description,category,url,status
 74010,Prévention des catastrophes et préparation à leur survenue,"Activités visant à réduire les risques liés aux catastrophes (par exemple développement des connaissances, établissement d’une cartographie des risques naturels, de normes juridiques pour les constructions) ; systèmes d’alerte précoce, stocks d’urgence et planification d’urgence, y compris préparation à une évacuation.",740,,withdrawn
 74020,Multi-hazard response preparedness,"Renforcer la réactivité, les capacités et les capacités des acteurs humanitaires internationaux, régionaux et nationaux face aux catastrophes. Soutien aux capacités institutionnelles des gouvernements nationaux et locaux, des organismes humanitaires spécialisés et des organisations de la société civile pour anticiper, réagir et récupérer de l'impact d'événements dangereux potentiels, imminents ou actuels, et de situations d'urgence qui posent des menaces humanitaires et pourraient appeler une réponse humanitaire. Cela inclut l'analyse et l'évaluation des risques, l'atténuation, la préparation, telles que le stockage d'éléments d'urgence et la formation et le renforcement des capacités visant à accroître la rapidité et l'efficacité de l'assistance vitale apportée lors d'une crise.",740,,active
 91010,Frais administratifs (non alloués par secteur),,910,,active
+92010,,,920,,withdrawn
+92020,,,920,,withdrawn
+92030,,,920,,withdrawn
 93010,Refugiés/demandeurs d’asile dans les pays donneurs (non alloués),"Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu’à 12 mois, quand les coûts ne peuvent pas être désagrégés. Voir section II.6 et Annexe 17.",930,,active
 93011,Refugiés/demandeurs d’asile dans les pays donneurs - nourriture et hébergement,"Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu’à 12 mois – nourriture et hébergement : - Nourriture et autres éléments essentiels pour l’entretien temporaire, tels qu’habillement. - Installations temporaires d’hébergement (par exemple, centres d’accueil, conteneurs, camps de tentes). S’agissant des bâtiments, seuls les coûts d’entretien et de maintenance peuvent être comptabilisés dans l’APD. Les coûts liés à la location de locaux d’hébergement temporaire sont éligibles. (Tous les coûts de construction sont exclus).",930,,active
 93012,Refugiés/demandeurs d’asile dans les pays donneurs - formation,"Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu’à 12 mois – formation: - Éducation de la petite enfance, enseignement primaire et enseignement secondaire pour les enfants (dont les coûts liés à la scolarité, hors formation professionnelle), dans le cadre de l’entretien temporaire. - Formation linguistique et autre formation spécifique pour les réfugiés, par exemple, compétences nécessaires à la vie courante pour les jeunes et les adultes (cours d’alphabétisation et de maîtrise des chiffres).",930,,active

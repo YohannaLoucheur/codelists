@@ -477,6 +477,12 @@
             <description>Management of public debt and foreign aid received (in the partner country). For reporting on debt reorganisation, use codes 600xx.</description>
             <description xml:lang="fr">Gestion de la dette publique et de l'aide &#233;trang&#232;re re&#231;ue (par le pays partenaire). Pour rapporter des r&#233;-&#233;chelonnements de dette, utiliser les codes 600xx.</description>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>15120</code>
+            <category>151</category>
+            <name>Public sector financial management</name>
+            <description>Strengthening financial and managerial accountability; public expenditure management; improving financial management systems; tax assessment procedures; budget drafting; field auditing; measures against waste, fraud and corruption.</description>
+        </codelist-item>
         <codelist-item status="active">
             <code>15121</code>
             <category>151</category>
@@ -613,6 +619,12 @@
             <description/>
             <description xml:lang="fr"/>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>15140</code>
+            <category>151</category>
+            <name>Government administration</name>
+            <description>Systems of government including parliament, local government, decentralisation; civil service and civil service reform. Including general services by government (or commissioned by government) not elsewhere specified e.g. police, fire protection; cartography, meteorology, legal metrology, aerial surveys and remote sensing; administrative buildings.</description>
+        </codelist-item>
         <codelist-item status="active">
             <code>15142</code>
             <category>151</category>
@@ -700,6 +712,30 @@
             <name xml:lang="fr">Droits de la personne</name>
             <description>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation and code 15180 for ending violence against women and girls. Use code 15190 for human rights programming for refugees or migrants, including when they are victims of trafficking.Use code 16070 for Fundamental Principles and Rights at Work, i.e. Child Labour, Forced Labour, Non-discrimination in employment and occupation, Freedom of Association and Collective Bargaining.)</description>
             <description xml:lang="fr">Mesures visant &#224; aider les institutions et m&#233;canismes sp&#233;cialis&#233;s dans les droits de la personne op&#233;rant aux niveaux mondial, r&#233;gional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, &#233;conomiques, sociaux et culturels tels que d&#233;finis dans les conventions et pactes internationaux; transposition dans la l&#233;gislation nationale des engagements internationaux concernant les droits de la personne; notification et suivi; dialogue sur les droits de la personne. D&#233;fenseurs des droits de la personne et ONG oeuvrant dans ce domaine ; promotion des droits de la personne, d&#233;fense active, mobilisation ; sensibilisation et &#233;ducation des citoyens aux droits de la personne.  &#201;laboration de programmes concernant les droits de la personne cibl&#233;s sur des groupes particuliers comme les enfants, les individus en situation de handicap, les migrants, les minorit&#233;s ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination fond&#233;e sur la caste, les victimes de la traite d'&#234;tres humains, les victimes de la torture. (Utiliser le code 15230 lorsque les activit&#233;s se d&#233;roulent dans le cadre d&#8217;une op&#233;ration internationale de maintien de la paix et le code 15180 pour les activit&#233;s visant l&#8217;&#233;limination de la violence &#224; l&#8217;&#233;gard des femmes et des filles. Utiliser le code 15190 pour la programmation des droits de l'homme des r&#233;fugi&#233;s ou des migrants, y compris lorsqu'ils sont victimes de la traite d'&#234;tres humains. Utiliser le code 16070 pour les activit&#233;s concernant les Principes fondamentaux et Droits au travail, c'est-&#224;-dire travail des enfants, travail forc&#233;, non-discrimination dans l'emploi et le travail, libert&#233; syndicale et n&#233;gociation collective.)</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>15161</code>
+            <category>151</category>
+            <name>Elections</name>
+            <description>Electoral assistance and monitoring, voters' education [other than in connection with UN peace building (15230)].</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>15162</code>
+            <category>151</category>
+            <name>Human rights</name>
+            <description>Monitoring of human rights performance; support for national and regional human rights bodies; protection of ethnic, religious and cultural minorities [other than in connection with un peace building (15230)].</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>15163</code>
+            <category>151</category>
+            <name>Free flow of information</name>
+            <description>Uncensored flow of information on public issues, including activities that increase the professionalism, skills and integrity of the print and broadcast media (e.g. training of journalists).</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>15164</code>
+            <category>151</category>
+            <name>Women's equality organisations and institutions</name>
+            <description>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women's empowerment.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>15170</code>
@@ -1092,6 +1128,108 @@
             <name xml:lang="fr">Technologies de l'information et de la communication (TIC)</name>
             <description>Computer hardware and software; internet access; IT training.  When sector cannot be specified.</description>
             <description xml:lang="fr">Mat&#233;riel informatique et logiciels ; acc&#232;s Internet ; formations aux TI. Lorsque le secteur ne peut pas &#234;tre sp&#233;cifi&#233;.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23010</code>
+            <category>230</category>
+            <name>Energy policy and administrative management</name>
+            <description>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23020</code>
+            <category>230</category>
+            <name>Power generation/non-renewable sources</name>
+            <description>Thermal power plants including when heat source cannot be determined; combined gas-coal power plants.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23030</code>
+            <category>230</category>
+            <name>Power generation/renewable sources</name>
+            <description>Including policy, planning, development programmes, surveys and incentives. Fuelwood/ charcoal production should be included under forestry (31261).</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23040</code>
+            <category>230</category>
+            <name>Electrical transmission/ distribution</name>
+            <description>Distribution from power source to end user; transmission lines.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23050</code>
+            <category>230</category>
+            <name>Gas distribution</name>
+            <description>Delivery for use by ultimate consumer.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23061</code>
+            <category>230</category>
+            <name>Oil-fired power plants</name>
+            <description>Including diesel power plants.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23062</code>
+            <category>230</category>
+            <name>Gas-fired power plants</name>
+            <description/>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23063</code>
+            <category>230</category>
+            <name>Coal-fired power plants</name>
+            <description/>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23064</code>
+            <category>230</category>
+            <name>Nuclear power plants</name>
+            <description>Including nuclear safety.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23065</code>
+            <category>230</category>
+            <name>Hydro-electric power plants</name>
+            <description>Including power-generating river barges.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23066</code>
+            <category>230</category>
+            <name>Geothermal energy</name>
+            <description/>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23067</code>
+            <category>230</category>
+            <name>Solar energy</name>
+            <description>Including photo-voltaic cells, solar thermal applications and solar heating.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23068</code>
+            <category>230</category>
+            <name>Wind power</name>
+            <description>Wind energy for water lifting and electric power generation.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23069</code>
+            <category>230</category>
+            <name>Ocean power</name>
+            <description>Including ocean thermal energy conversion, tidal and wave power.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23070</code>
+            <category>230</category>
+            <name>Biomass</name>
+            <description>Densification technologies and use of biomass for direct power generation including biogas, gas obtained from sugar cane and other plant residues, anaerobic digesters.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23081</code>
+            <category>230</category>
+            <name>Energy education/training</name>
+            <description>Applies to all energy sub-sectors; all levels of training.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>23082</code>
+            <category>230</category>
+            <name>Energy research</name>
+            <description>Including general inventories, surveys.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>23110</code>
@@ -2196,6 +2334,24 @@
             <name xml:lang="fr">Frais administratifs (non allou&#233;s par secteur)</name>
             <description/>
             <description xml:lang="fr"/>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>92010</code>
+            <category>920</category>
+            <name>Support to national NGOs</name>
+            <description>In the donor country.</description>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>92020</code>
+            <category>920</category>
+            <name>Support to international NGOs</name>
+            <description/>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>92030</code>
+            <category>920</category>
+            <name>Support to local and regional NGOs</name>
+            <description>In the recipient country or region.</description>
         </codelist-item>
         <codelist-item status="active">
             <code>93010</code>

@@ -13,6 +13,7 @@ code,name,description,category,url,status
 160,Other Social Infrastructure & Services,,,,active
 210,Transport & Storage,Note: Manufacturing of transport equipment should be included under code 32172.,,,active
 220,Communications,,,,active
+230,ENERGY GENERATION AND SUPPLY,"Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.",,,withdrawn
 231,Energy Policy,,,,active
 232,"Energy generation, renewable sources",,,,active
 233,"Energy generation, non-renewable sources",,,,active
@@ -39,5 +40,6 @@ code,name,description,category,url,status
 730,Reconstruction Relief & Rehabilitation,This relates to activities during and in the aftermath of an emergency situation. Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid.,,,active
 740,Disaster Prevention & Preparedness,See codes 41050 and 15220 for prevention of floods and conflicts.,,,active
 910,Administrative Costs of Donors,,,,active
+920,SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs),In the donor country.,,,withdrawn
 930,Refugees in Donor Countries,,,,active
 998,Unallocated / Unspecified,Contributions to general development of the recipient should be included under programme assistance (51010).,,,active
