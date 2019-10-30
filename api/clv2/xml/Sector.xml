@@ -1,4 +1,4 @@
-<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0">
+<codelist xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/" name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0">
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>DAC 5 Digit Sector</name>
@@ -48,6 +48,7 @@
         <codelist-item status="active">
             <code>11230</code>
             <category>112</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Basic life skills for youth and adults</name>
             <name xml:lang="fr">Education pour une meilleure qualit&#233; de vie pour les jeunes et les adultes</name>
             <description>Formal and non-formal education for basic life skills for young people and adults (adults education); literacy and numeracy training. Excludes health education (12261) and activities related to prevention of noncommunicable diseases. (123xx).</description>
@@ -88,6 +89,7 @@
         <codelist-item status="active">
             <code>11320</code>
             <category>113</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Secondary education</name>
             <name xml:lang="fr">Enseignement secondaire</name>
             <description>Second cycle systematic instruction at both junior and senior levels.</description>
@@ -408,6 +410,7 @@
         <codelist-item status="active">
             <code>15110</code>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Public sector policy and administrative management</name>
             <name xml:lang="fr">Politiques publiques et gestion administrative</name>
             <description>Institution-building assistance to strengthen core public sector management systems and capacities. This includes general public policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e-government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries. For macro-economic policy use code 15142. For public procurement use code 15125.)</description>
@@ -416,6 +419,7 @@
         <codelist-item status="active">
             <code>15111</code>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Public finance management (PFM)</name>
             <name xml:lang="fr">Gestion des finances publiques</name>
             <description>Fiscal policy and planning; support to ministries of finance; strengthening financial and managerial accountability; public expenditure management; improving financial management systems; budget drafting; inter-governmental fiscal relations, public audit, public debt. (Use code 15114 for domestic revenue mobilisation and code 33120 for customs).</description>
@@ -424,6 +428,7 @@
         <codelist-item status="active">
             <code>15112</code>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Decentralisation and support to subnational government</name>
             <name xml:lang="fr">D&#233;centralisation et soutien aux administrations infranationales</name>
             <description>Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening departments of regional and local government, regional and local authorities and their national associations. (Use specific sector codes for decentralisation of sector management and services.)</description>
@@ -440,6 +445,7 @@
         <codelist-item status="active">
             <code>15114</code>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Domestic revenue mobilisation</name>
             <name xml:lang="fr">Mobilisation des ressources int&#233;rieures</name>
             <description>Support to domestic revenue mobilisation/tax policy, analysis and administration as well as non-tax public revenue, which includes work with ministries of finance, line ministries, revenue authorities or other local, regional or national public bodies. (Use code 16010 for social security and other social protection.)</description>
@@ -558,6 +564,7 @@
         <codelist-item status="active">
             <code>15130</code>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Legal and judicial development</name>
             <name xml:lang="fr">D&#233;veloppement des services l&#233;gaux et judiciaires</name>
             <description>Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities. Use code 15130 for capacity building in border management related to migration.)</description>
@@ -820,6 +827,7 @@
         <codelist-item status="active">
             <code>16010</code>
             <category>160</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Social Protection</name>
             <name xml:lang="fr">Protection sociale</name>
             <description>Social protection or social security strategies, legislation and administration; institution capacity building and advice; social security and other social schemes; support programmes, cash benefits, pensions and special programmes for older persons, orphans, persons with disabilities, children, mothers with newborns, those living in poverty, without jobs and other vulnerable groups; social dimensions of structural adjustment.</description>
@@ -900,6 +908,7 @@
         <codelist-item status="active">
             <code>16061</code>
             <category>160</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Culture and recreation</name>
             <name xml:lang="fr">Culture et loisirs</name>
             <description>Including libraries and museums.</description>
@@ -964,6 +973,7 @@
         <codelist-item status="active">
             <code>21010</code>
             <category>210</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Transport policy and administrative management</name>
             <name xml:lang="fr">Politique des transports et gestion administrative</name>
             <description>Transport sector policy, planning and programmes; aid to transport ministries; institution capacity building and advice; unspecified transport; activities that combine road, rail, water and/or air transport. Includes prevention of road accidents. Whenever possible, report transport of goods under the sector of the good being transported.</description>
@@ -996,6 +1006,7 @@
         <codelist-item status="active">
             <code>21020</code>
             <category>210</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Road transport</name>
             <name xml:lang="fr">Transport routier</name>
             <description>Road infrastructure, road vehicles; passenger road transport, motor passenger cars.</description>
@@ -1076,6 +1087,7 @@
         <codelist-item status="active">
             <code>22010</code>
             <category>220</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Communications policy and administrative management</name>
             <name xml:lang="fr">Politique des communications et gestion administrative</name>
             <description>Communications sector policy, planning and programmes; institution capacity building and advice; including postal services development; unspecified communications activities.</description>
@@ -1234,6 +1246,7 @@
         <codelist-item status="active">
             <code>23110</code>
             <category>231</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Energy policy and administrative management</name>
             <name xml:lang="fr">Politique &#233;nerg&#233;tique et gestion administrative</name>
             <description>Energy sector policy, planning; aid to energy ministries; institution capacity building and advice; unspecified energy activities.</description>
@@ -2082,6 +2095,7 @@
         <codelist-item status="active">
             <code>43010</code>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
             <name>Multisector aid</name>
             <name xml:lang="fr">Aide plurisectorielle</name>
             <description/>
@@ -2090,6 +2104,7 @@
         <codelist-item status="active">
             <code>43030</code>
             <category>430</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Urban development and management</name>
             <name xml:lang="fr">D&#233;veloppement et gestion urbaine</name>
             <description>Integrated urban development projects; local development and urban management; urban infrastructure and services; municipal finances; urban environmental management; urban development and planning; urban renewal and urban housing; land information systems.</description>
@@ -2114,6 +2129,7 @@
         <codelist-item status="active">
             <code>43040</code>
             <category>430</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             <name>Rural development</name>
             <name xml:lang="fr">D&#233;veloppement rural</name>
             <description>Integrated rural development projects;  e.g. regional development planning;  promotion of decentralised and multi-sectoral competence for planning, co-ordination and management;  implementation of regional development and measures (including natural reserve management);  land management;  land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas;  geographical information systems.</description>
@@ -2138,6 +2154,7 @@
         <codelist-item status="active">
             <code>43050</code>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
             <name>Non-agricultural alternative development</name>
             <name xml:lang="fr">D&#233;veloppement alternatif non agricole</name>
             <description>Projects to reduce illicit drug cultivation through, for example, non-agricultural income opportunities, social and physical infrastructure (see code 31165 for agricultural alternative development).</description>
@@ -2178,6 +2195,7 @@
         <codelist-item status="active">
             <code>43081</code>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
             <name>Multisector education/training</name>
             <name xml:lang="fr">Education et formation plurisectorielles</name>
             <description>Including scholarships.</description>
@@ -2186,6 +2204,7 @@
         <codelist-item status="active">
             <code>43082</code>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
             <name>Research/scientific institutions</name>
             <name xml:lang="fr">Institutions scientifiques et de recherche</name>
             <description>When sector cannot be identified.</description>
@@ -2202,6 +2221,7 @@
         <codelist-item status="active">
             <code>52010</code>
             <category>520</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
             <name>Food assistance</name>
             <name xml:lang="fr">Assistance alimentaire</name>
             <description>Supply of edible human food under national or international programmes including transport costs, cash payments made for food supplies; project food assistance aid and food assistance aid for market sales when benefiting sector not specified. Excludes food security policy and administrative management (43071), household food security programmes (43072) and emergency food assistance aid (72040). Report as multilateral: i) food assistance aid by EU financed out of its budget and allocated pro rata to EU member countries; and ii) core contributions to the World Food Programme.</description>
@@ -2428,6 +2448,7 @@
         <codelist-item status="active">
             <code>99810</code>
             <category>998</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
             <name>Sectors not specified</name>
             <name xml:lang="fr">Secteur non sp&#233;cifi&#233;</name>
             <description>Contributions to general development of the recipient should be included under programme assistance (51010).</description>
