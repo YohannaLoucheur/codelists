@@ -1,7 +1,7 @@
 <codelist name="EarmarkingCategory" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <url>https://reliefweb.int/sites/reliefweb.int/files/resources/Grand_Bargain_final_22_May_FINAL-2.pdf</url>
-        <name>EarmarkingCategory</name>
+        <name>Earmarking Category</name>
         <description>This codelist has been created by IATI and is derived from the Grand Bargain Earmarking Modality codelist.</description>
         <category>Replicated</category>
     </metadata>
