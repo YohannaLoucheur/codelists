@@ -1,4 +1,4 @@
-<codelist name="LocationType" date-last-modified="2019-10-30T21:13:36.949462+00:00" version="" xml:lang="en">
+<codelist name="LocationType" date-last-modified="2019-10-30T23:44:01.667743+00:00" version="" xml:lang="en">
   <LocationType>
     <code>AIRQ</code>
     <name>abandoned airfield</name>
