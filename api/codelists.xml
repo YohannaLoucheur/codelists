@@ -1,0 +1,24 @@
+<codelists>
+  <codelist ref="EarmarkingCategory"/>
+  <codelist ref="AidType-category"/>
+  <codelist ref="CollaborationType"/>
+  <codelist ref="OrganisationRegistrationAgency"/>
+  <codelist ref="Language"/>
+  <codelist ref="FinanceType"/>
+  <codelist ref="CRSChannelCode"/>
+  <codelist ref="SectorCategory"/>
+  <codelist ref="PolicyMarker"/>
+  <codelist ref="FinanceType-category"/>
+  <codelist ref="LocationType"/>
+  <codelist ref="LocationType-category"/>
+  <codelist ref="PolicySignificance"/>
+  <codelist ref="UNSDG-Targets"/>
+  <codelist ref="Sector"/>
+  <codelist ref="FlowType"/>
+  <codelist ref="AidType"/>
+  <codelist ref="FileFormat"/>
+  <codelist ref="Currency"/>
+  <codelist ref="UNSDG-Goals"/>
+  <codelist ref="Region"/>
+  <codelist ref="Country"/>
+</codelists>
