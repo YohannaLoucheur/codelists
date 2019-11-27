@@ -141,23 +141,23 @@ code,name,description,category,url,status
 22020,Télécommunications,"Réseaux de téléphones, satellites, stations terrestres.",220,,active
 22030,"Radio, télévision, presse écrite",Liaisons et équipement ; journaux ; imprimerie et édition.,220,,active
 22040,Technologies de l'information et de la communication (TIC),Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.,220,,active
-23010,,,230,,withdrawn
-23020,,,230,,withdrawn
-23030,,,230,,withdrawn
-23040,,,230,,withdrawn
-23050,,,230,,withdrawn
-23061,,,230,,withdrawn
-23062,,,230,,withdrawn
-23063,,,230,,withdrawn
-23064,,,230,,withdrawn
-23065,,,230,,withdrawn
-23066,,,230,,withdrawn
-23067,,,230,,withdrawn
-23068,,,230,,withdrawn
-23069,,,230,,withdrawn
-23070,,,230,,withdrawn
-23081,,,230,,withdrawn
-23082,,,230,,withdrawn
+23010,Politique de l’énergie et gestion administrative,"Politique de l’énergie, planification et programmes; aide aux ministères de l’énergie; renforcement des capacités institutionnelles et conseils; activités non spécifiées dans le domaine de l’énergie y compris les économies d’énergie.",230,,withdrawn
+23020,Production d’énergie (sources non renouvelables),Centrales thermiques (lorsque la source de chaleur ne peut être déterminée); centrales alimentées au gaz et au charbon.,230,,withdrawn
+23030,Production d’énergie (sources renouvelables),"Y compris politique et planification, programmes de développement, études et primes. Production de bois de chauffage et de charbon de bois devrait être incluse dans sylviculture (31261).",230,,withdrawn
+23040,Transmission et distribution d’électricité,Distribution de la source d’énergie au consommateur; lignes de transmission.,230,,withdrawn
+23050,Distribution de gaz,Distribution au consommateur.,230,,withdrawn
+23061,Centrales alimentées au fuel,Y compris les centrales alimentées au gas-oil.,230,,withdrawn
+23062,Centrales alimentées au gaz,,230,,withdrawn
+23063,Centrales alimentées au charbon,,230,,withdrawn
+23064,Centrales nucléaires,"Y compris la sécurité nucléaire. L’aide visant à favoriser une utilisation pacifique de l’énergie nucléaire est comptabilisable dans l’APD. À titre d’exemples, on citera : la construction ou le déclassement de centrales nucléaires à des fins civiles, le développement ou la fourniture d’isotopes médicaux, l’irradiation des aliments et d’autres applications industrielles et commerciales. Sont par contre exclues les activités de recherche sur les armes nucléaires et les applications militaires de la technologie nucléaire.",230,,withdrawn
+23065,Centrales et barrages hydroélectriques,Y compris les installations sur les barges.,230,,withdrawn
+23066,Énergie géothermique,,230,,withdrawn
+23067,Énergie solaire,Y compris les cellules photovoltaïques et les pompes à énergie solaire.,230,,withdrawn
+23068,Énergie éolienne,Énergie éolienne pour l’hydrodynamique et la production d’électricité.,230,,withdrawn
+23069,Énergie marémotrice,"Y compris la conversion de l’énergie thermique marine, la puissance des marées et des vagues.",230,,withdrawn
+23070,Biomasse,"Technologies de densification et utilisation de la biomasse pour la production d’énergie directe, y compris le gaz obtenu par fermentation de la canne à sucre et d’autres résidus végétaux, et par anaérobie.",230,,withdrawn
+23081,Éducation et formation dans le domaine de l’énergie,Se rapporte à tous les sous-secteurs de l’énergie et à tous les niveaux de formation.,230,,withdrawn
+23082,Recherche dans le domaine de l’énergie,Y compris inventaires et études.,230,,withdrawn
 23110,Politique énergétique et gestion administrative,Politique et planification du secteur de l’énergie ; aide aux ministères de l’énergie ; conseils et renforcement des capacités institutionnelles ; activités non précisées.,231,,active
 23111,"Politiques, planification et administration du secteur de l'énergie",,231,,active
 23112,Réglementation de l'énergie,"Réglementation du secteur de l'énergie, y compris l'approvisionnement d'électricité en gros et au détail.",231,,active
