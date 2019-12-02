@@ -2,6 +2,7 @@
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>Aid Type</name>
+        <name xml:lang="fr">Type d'aide</name>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

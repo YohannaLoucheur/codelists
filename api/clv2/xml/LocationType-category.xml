@@ -2,7 +2,9 @@
     <metadata>
         <url>http://geonames.nga.mil/ggmagaz/</url>
         <name>Location Type (category)</name>
+        <name xml:lang="fr">Type de lieu (cat&#233;gorie)</name>
         <description>This category is equivalent to US NGA's "Feature Class"</description>
+        <description xml:lang="fr">Cette cat&#233;gorie correspond au "Feature Class" du National Geospatial Agency am&#233;ricain</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

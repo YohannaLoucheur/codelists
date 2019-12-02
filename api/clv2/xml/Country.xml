@@ -2,6 +2,7 @@
     <metadata>
         <url>http://www.iso.org/iso/home/standards/country_codes.htm</url>
         <name>Country</name>
+        <name xml:lang="fr">Pays</name>
         <description>
             The Country codelist is generated from the ISO 3166-1 part of the
             ISO 3166 standard. The standard makes allowance, alongside the

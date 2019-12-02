@@ -2,6 +2,7 @@
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>Policy Significance</name>
+        <name xml:lang="fr">Degr&#233; d'implication politique</name>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

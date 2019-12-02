@@ -2,7 +2,9 @@
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>Flow Type</name>
+        <name xml:lang="fr">Type d'apport</name>
         <description>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</description>
+        <description xml:lang="fr">Distinction du CAD/SNPC entre l'APD (aide publique au d&#233;veloppement) et les autres types d'apport</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

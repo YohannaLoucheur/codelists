@@ -2,6 +2,7 @@
     <metadata>
         <url>http://www.iso.org/iso/home/standards/language_codes.htm</url>
         <name>Language</name>
+        <name xml:lang="fr">Langue</name>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

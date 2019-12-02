@@ -2,6 +2,7 @@
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>CRS Channel Code</name>
+        <name xml:lang="fr">Code de m&#233;canisme du SNPC</name>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

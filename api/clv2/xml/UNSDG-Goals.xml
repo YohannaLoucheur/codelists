@@ -2,7 +2,9 @@
     <metadata>
         <url>https://sustainabledevelopment.un.org/?menu=1300</url>
         <name>UN Sustainable Development Goals (SDG)</name>
+        <name xml:lang="fr">Objectifs de d&#233;veloppement durable (ODD) de l'ONU</name>
         <description>A value from the top-level list of UN sustainable development goals (SDGs) (e.g. &#8216;1&#8217;)</description>
+        <description xml:lang="fr">Une valeur de la liste primaire d'Objectifs de d&#233;veloppement durable (ODD) de l'ONU (par ex. "1").</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

@@ -2,7 +2,9 @@
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>Collaboration Type</name>
+        <name xml:lang="fr">Type de collaboration</name>
         <description>OECD DAC classification used to determine the character of resource flows (bilateral or multilateral).</description>
+        <description xml:lang="fr">Classification du CAD de l'OCDE qui permet de distinguer la nature des apports de ressources (bilat&#233;rale ou multilat&#233;rale).</description>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

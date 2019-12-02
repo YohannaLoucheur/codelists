@@ -6,7 +6,7 @@
   </codelist>
   <codelist>
     <name>AidType-category</name>
-    <description>This codelists exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.</description>
+    <description>This codelist exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.</description>
     <count>8</count>
   </codelist>
   <codelist>

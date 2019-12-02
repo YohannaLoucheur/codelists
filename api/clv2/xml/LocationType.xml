@@ -2,6 +2,7 @@
     <metadata>
         <url>http://geonames.nga.mil/namesgaz/</url>
         <name>Location Type</name>
+        <name xml:lang="fr">Type de lieu</name>
         <description>
             US NGA Feature Designation Codes
             

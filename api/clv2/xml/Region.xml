@@ -2,6 +2,7 @@
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>Region</name>
+        <name xml:lang="fr">R&#233;gion</name>
         <category>Replicated</category>
     </metadata>
     <codelist-items>

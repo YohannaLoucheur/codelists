@@ -2,6 +2,7 @@
     <metadata>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <name>DAC 5 Digit Sector</name>
+        <name xml:lang="fr">Secteur du CAD &#224; 5 chiffres</name>
         <category>Replicated</category>
     </metadata>
     <codelist-items>
